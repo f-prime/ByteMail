@@ -1,9 +1,1 @@
-ByteMail
-========
-
-Peer-to-peer Email Protocol
-
-Info
-----
-
-If you would like to help out the ByteMail network, open port 5333 and set the relay config to True in bytemail.py
+Development has been moved to an organization https://github.com/ByteMail/ByteMail
